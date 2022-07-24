@@ -10,4 +10,10 @@ npm run dev
 yarn dev
 ```
 
-![5ed10b9b-f608-45ad-b08e-995fe700d0e2](https://user-images.githubusercontent.com/86415401/180662778-03c7671e-4bc8-4f18-9120-a9d0f99c6a28.gif)
+![image](https://user-images.githubusercontent.com/86415401/180662831-2c8878c9-f598-43e1-9fbb-aa7c24159105.png)
+
+
+![image](https://user-images.githubusercontent.com/86415401/180662905-8b36d526-3e5d-4bdb-a178-31512eb8ac90.png)
+
+
+![image](https://user-images.githubusercontent.com/86415401/180662940-a082185f-095c-4b1c-a91b-5e85477cbf5a.png)
